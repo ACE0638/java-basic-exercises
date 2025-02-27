@@ -7,6 +7,7 @@ This repository contains simple Java exercises to practice basic programming con
 1. **Simple Calculator**: Takes two numbers and displays the sum, subtraction, multiplication, and division.
 2. **Number Checker**: Checks if a number is positive, negative, even, or odd.
 3. **Vowel Counter**: Counts how many vowels are in a given word.
+4. **Multiplication Table**: Displays the multiplication table of a given number.
 
 ## How to Use
 
