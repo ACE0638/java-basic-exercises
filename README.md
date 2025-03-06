@@ -9,6 +9,7 @@ This repository contains simple Java exercises to practice basic programming con
 3. **[Vowel Counter](/vowel-counter)**: Counts the number of vowels in a word or phrase.
 4. **[Multiplication Table](/multiplication-table)**: Displays the multiplication table of a given number.
 5. **[Average Calculator](/average-calculator)**: Calculates the average of three grades and checks if the student passed or failed.
+6. **[Temperature Converter](/temperature-converter)**: Converts a temperature from Celsius to Fahrenheit.
 
 ## How to Use
 
