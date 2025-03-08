@@ -10,6 +10,7 @@ This repository contains simple Java exercises to practice basic programming con
 4. **[Multiplication Table](/multiplication-table)**: Displays the multiplication table of a given number.
 5. **[Average Calculator](/average-calculator)**: Calculates the average of three grades and checks if the student passed or failed.
 6. **[Temperature Converter](/temperature-converter)**: Converts a temperature from Celsius to Fahrenheit.
+7. [Even Numbers in Range](/even-numbers-in-range): Displays all even numbers in a given range.
 
 ## How to Use
 
