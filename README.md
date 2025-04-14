@@ -13,6 +13,7 @@ This repository contains simple Java exercises to practice basic programming con
 7. **[Even Numbers in Range](/even-numbers-in-range)**: Displays all even numbers in a given range.
 8. **[Library Management System](/library-management-system)**: It allows users to add books, list available books, borrow books, and return books.
 9. **[Number Quest](/number-quest)**: The goal of the game is to guess a randomly generated secret number within a limited number of attempts.
+10. **[Event Access Verification System](/event-access-verification-system)**: A Java console application that verifies if a user can access an event based on age, ticket type, and parental consent (for minors).
 
 ## How to Use
 
