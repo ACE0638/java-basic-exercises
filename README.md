@@ -15,6 +15,8 @@ This repository contains simple Java exercises to practice basic programming con
 9. **[Number Quest](/number-quest)**: The goal of the game is to guess a randomly generated secret number within a limited number of attempts.
 10. **[Event Access Verification System](/event-access-verification-system)**: A Java console application that verifies if a user can access an event based on age, ticket type, and parental consent (for minors).
 11. **[ATM Simulator](/atm-simulator)**: Simulates basic ATM operations like balance check, deposit, and withdrawal.
+12. [**Password Validator**](/password-validator): Checks if a password meets security requirements (length, special characters, etc.).
+13. [**Word Reverser**](/word-reverser): Reverses a given word or phrase.
 
 ## How to Use
 
