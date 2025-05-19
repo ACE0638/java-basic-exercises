@@ -1,12 +1,12 @@
-# Validador de Senha
+## 12. Password Validator
 
-### Funcionalidades
-- **Validação de regras**: Verifica senhas contra 6 critérios de segurança
-- **Verificações completas**:
-  - Tamanho mínimo
-  - Letras maiúsculas/minúsculas
-  - Dígitos numéricos
-  - Caracteres especiais
-  - Detecção de espaços
-- **Feedback imediato**: Indica claramente falhas de validação
-- **Baseado em Regex**: Usa expressões regulares para validação eficiente
+### Features
+- **Rule Validation**: Checks passwords against 6 security criteria
+- **Full Checks**:
+- Minimum Length
+- Upper/Lower Case Letters
+- Numeric Digits
+- Special Characters
+- Space Detection
+- **Immediate Feedback**: Clearly Indicates Validation Failures
+- **Regex-Based**: Uses Regular Expressions for Efficient Validation
