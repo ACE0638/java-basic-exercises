@@ -17,6 +17,7 @@ This repository contains simple Java exercises to practice basic programming con
 11. **[ATM Simulator](/atm-simulator)**: Simulates basic ATM operations like balance check, deposit, and withdrawal.
 12. [**Password Validator**](/password-validator): Checks if a password meets security requirements (length, special characters, etc.).
 13. [**Word Reverser**](/word-reverser): Reverses a given word or phrase.
+14. [**Prime Number Checker**](/prime-number-checker): Checks if a number is prime.
 
 ## How to Use
 
