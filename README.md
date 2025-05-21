@@ -18,6 +18,7 @@ This repository contains simple Java exercises to practice basic programming con
 12. [**Password Validator**](/password-validator): Checks if a password meets security requirements (length, special characters, etc.).
 13. [**Word Reverser**](/word-reverser): Reverses a given word or phrase.
 14. [**Prime Number Checker**](/prime-number-checker): Checks if a number is prime.
+15. [**Student Grade System**](/student-grade-system): Calculates final grade based on multiple test scores and provides letter grade.
 
 ## How to Use
 
