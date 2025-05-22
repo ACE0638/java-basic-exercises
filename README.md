@@ -19,6 +19,7 @@ This repository contains simple Java exercises to practice basic programming con
 13. [**Word Reverser**](/word-reverser): Reverses a given word or phrase.
 14. [**Prime Number Checker**](/prime-number-checker): Checks if a number is prime.
 15. [**Student Grade System**](/student-grade-system): Calculates final grade based on multiple test scores and provides letter grade.
+16. [**Basic To-Do List**](/basic-to-do-list): Allows adding, viewing, and removing tasks from a simple to-do list.
 
 ## How to Use
 
