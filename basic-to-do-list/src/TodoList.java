@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TodoList {
-    private ArrayList<String> tasks = new ArrayList<>();
+    private ArrayList<String> tasks = new ArrayList<String>();
     private Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

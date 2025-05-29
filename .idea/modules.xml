@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/atm-simulator/atm-simulator.iml" filepath="$PROJECT_DIR$/atm-simulator/atm-simulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/average-calculator/average-calculator.iml" filepath="$PROJECT_DIR$/average-calculator/average-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-encryption-tool/basic-encryption-tool.iml" filepath="$PROJECT_DIR$/basic-encryption-tool/basic-encryption-tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-to-do-list/basic-to-do-list.iml" filepath="$PROJECT_DIR$/basic-to-do-list/basic-to-do-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-converter/currency-converter.iml" filepath="$PROJECT_DIR$/currency-converter/currency-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/even-numbers-in-range/even-numbers-in-range.iml" filepath="$PROJECT_DIR$/even-numbers-in-range/even-numbers-in-range.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-access-verification-system/event-access-verification-system.iml" filepath="$PROJECT_DIR$/event-access-verification-system/event-access-verification-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expense-tracker/expense-tracker.iml" filepath="$PROJECT_DIR$/expense-tracker/expense-tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basic-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-basic-exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/library-management-system/library-management-system.iml" filepath="$PROJECT_DIR$/library-management-system/library-management-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiplication-table/multiplication-table.iml" filepath="$PROJECT_DIR$/multiplication-table/multiplication-table.iml" />
@@ -14,8 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/number-quest/number-quest.iml" filepath="$PROJECT_DIR$/number-quest/number-quest.iml" />
       <module fileurl="file://$PROJECT_DIR$/password-validator/password-validator.iml" filepath="$PROJECT_DIR$/password-validator/password-validator.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-number-checker/prime-number-checker.iml" filepath="$PROJECT_DIR$/prime-number-checker/prime-number-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" filepath="$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-calculator/simple-calculator.iml" filepath="$PROJECT_DIR$/simple-calculator/simple-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/student-grade-system/student-grade-system.iml" filepath="$PROJECT_DIR$/student-grade-system/student-grade-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-grade-tracker/student-grade-tracker.iml" filepath="$PROJECT_DIR$/student-grade-tracker/student-grade-tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/temperature-converter/temperature-converter.iml" filepath="$PROJECT_DIR$/temperature-converter/temperature-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/vowel-counter/vowel-counter.iml" filepath="$PROJECT_DIR$/vowel-counter/vowel-counter.iml" />
       <module fileurl="file://$PROJECT_DIR$/word-reverse/word-reverse.iml" filepath="$PROJECT_DIR$/word-reverse/word-reverse.iml" />
